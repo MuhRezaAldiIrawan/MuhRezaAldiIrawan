@@ -7,3 +7,9 @@ Here's a brief "About Me" introduction that you can use on your GitHub profile:
 💡 I'm enthusiastic about learning new technologies and continuously improving my skills. I believe in collaboration, knowledge sharing, and building a strong community around web development. Through my work, I hope to make a significant impact in the tech world, one line of code at a time.
 
 🌐 If you're interested in collaborating or just want to chat about technology, feel free to reach out!
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
