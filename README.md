@@ -16,6 +16,6 @@ Here's a brief "About Me" introduction that you can use on your GitHub profile:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,express,firebase,github,html,idea,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=laravel,codeigniter,git,aws,bootstrap,css,discord,docker,express,firebase,github,html,idea,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
