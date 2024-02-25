@@ -20,21 +20,17 @@ Here's a brief "About Me" introduction that you can use on your GitHub profile:
   </a>
 </p>
 
-<br>
-<br>
-<h2 align="left">Connect with me</h2>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muh-reza-aldi-irawan/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaivardhan-bhola-773944214" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17393492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17393492" height="30" width="40" /></a>
-<a href="https://fb.com/jaivardhan.bhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaivardhan.bhola" height="30" width="40" /></a>
-<a href="https://instagram.com/jaivardhan-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jaivardhan-bhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jaivardhanbhola/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaivardhanbhola/profile" height="30" width="40" /></a>
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
-<br>
-<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
