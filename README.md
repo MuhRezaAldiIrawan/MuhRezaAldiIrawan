@@ -36,5 +36,6 @@ Here's a brief "About Me" introduction that you can use on your GitHub profile:
 <br>
 <br>
 
+### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MuhRezaAldiIrawan&theme=vue-dark" alt="GitHub Streak" /></a>
